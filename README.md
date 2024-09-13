@@ -56,9 +56,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GUS2-SAN/GUS2-SAN/output/snake.svg" alt="Snake animation" />
-
-###
