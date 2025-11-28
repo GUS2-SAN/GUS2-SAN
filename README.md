@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Augusto Santana. I'm an indie game developer 🎮 and a Computer Science student 📚 from Brazil. Feel free to check out my projects and connect with me! 🚀</h2>
+<h2 align="left">Hi 👋! My name is Augusto Santana. I'm an indie game and web developer 🎮 and a Computer Science student 📚 from Brazil. Feel free to check out my projects and connect with me! 🚀</h2>
 
 ###
 
